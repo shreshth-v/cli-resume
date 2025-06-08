@@ -4,6 +4,8 @@ Welcome to my command-line resume! This CLI tool displays my resume directly in 
 
 🔗 [NPM Package Link](https://www.npmjs.com/package/@shreshth21/resume)
 
+🔗 [Github Repo](https://github.com/shreshth-v/cli-resume)
+
 ---
 
 ## ✨ Demo
@@ -46,6 +48,3 @@ Figlet – for ASCII art headers
 
 This CLI tool is linked to an executable script (index.js) via the bin field in package.json.
 When you run the command via npx, it fetches the package from the npm registry and executes the file to render the resume directly in your terminal.
-
----
-
