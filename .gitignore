@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# dotenv files (if you ever use one)
+.env
+
+# Build artifacts
+dist/
+build/
+
+# Optional npm cache
+.npm/
+
+# VS Code
+.vscode/
+

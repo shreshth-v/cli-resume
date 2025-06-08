@@ -1,0 +1,23 @@
+{
+  "name": "@shreshth21/resume",
+  "version": "1.0.2",
+  "description": "CLI resume of Shreshth Vishwakarma",
+  "main": "index.js",
+  "bin": {
+    "@shreshth21/resume": "./index.js"
+  },
+  "keywords": [
+    "resume",
+    "cli",
+    "npx",
+    "shreshth"
+  ],
+  "author": "Shreshth Vishwakarma",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1"
+  },
+  "type": "module"
+}
